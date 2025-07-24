@@ -1,0 +1,8 @@
+vaderSentiment
+praw
+snscrape
+beautifulsoup4
+pandas
+requests
+matplotlib
+streamlit
